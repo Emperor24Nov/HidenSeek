@@ -4,7 +4,7 @@ Aplikasi ini adalah game berbasis Virtual Reality (VR) yang mengadaptasi permain
 
 Tampilan Utama                              | Tampilan Kata                              | Tampilan Praktik
 --------------------------------------------|--------------------------------------------|--------------------------------------------
-<img src="screenshots/pic1.png" width="200">|<img src="screenshots/pic2.png" width="200">|<img src="screenshots/pic3.png" width="200">
+                                            |                                            |
 
 ### Link Berkas PA
 
